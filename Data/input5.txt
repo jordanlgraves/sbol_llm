@@ -16,9 +16,6 @@ Input2:
 Gene allR, Product DNA-binding transcriptional repressor AllR
 
 Output:
-
-Here’s the processed text with Named Entity Recognition (NER) and Named Entity Normalization (NEN) using NCBI Taxonomy, MeSH descriptors, and NCBI Gene names. Recognized terms are enclosed in square brackets, and the corresponding URLs are explicitly provided in curved brackets.
-
 [AllR] (https://www.ncbi.nlm.nih.gov/gene/945112) (for "allantoin repressor") regulates several genes involved in the anaerobic utilization of [allantoin] (https://meshb.nlm.nih.gov/record/ui?ui=D000484) as a nitrogen source. Cusa E., et al. 19991; Rintoul MR., et al. 20022.
 
 At very low concentrations of [glyoxylate] (https://meshb.nlm.nih.gov/record/ui?ui=D005938), [AllR] (https://www.ncbi.nlm.nih.gov/gene/945112) represses transcription from [allAp] (https://www.ncbi.nlm.nih.gov/gene/945113), [allSp] (https://www.ncbi.nlm.nih.gov/gene/945114), and [gclp] (https://www.ncbi.nlm.nih.gov/gene/945115). A highly conserved region featuring an almost perfect palindromic sequence has been identified in [gclp] (https://www.ncbi.nlm.nih.gov/gene/945115) and in the intergenic region between the divergent promoters [allAp] (https://www.ncbi.nlm.nih.gov/gene/945113) and [allSp] (https://www.ncbi.nlm.nih.gov/gene/945114). It has been proven that [AllR] (https://www.ncbi.nlm.nih.gov/gene/945112) binds to this region, and it has been proposed that it may interfere with [RNA polymerase] (https://meshb.nlm.nih.gov/record/ui?ui=D012327) by steric hindrance or contact inhibition, thus repressing transcription.
