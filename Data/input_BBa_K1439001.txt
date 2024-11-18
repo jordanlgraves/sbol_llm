@@ -1,0 +1,22 @@
+INPUT:
+
+    User initial description: "This part contains a reporter gene BBa_J04450, combined with OriTRP4. Used to test plasmid mobility...."
+    
+    - PDF of biochemical model, parameters, characteristics etc (optional)
+    - circuit/sequence
+
+    Parts:
+        BBa_J04450
+            SO:0000804 - A region that is engineered.
+            https://synbiohub.org/public/igem/BBa_J04450/1)
+            Gene: Highly engineered mutant of red fluorescent protein from Discosoma striata (coral)
+
+        OriTRP4
+            SO_0000724 - A region of a DNA molecule where transfer is initiated during the process of conjugation or mobilization.
+            https://synbiohub.org/public/igem/BBa_K1439000/1
+
+
+OUTPUT:
+
+This circuit contains the reporter gene, RFP (https://synbiohub.org/public/igem/BBa_J04450/1) combined with the origin of transfer for the RP4-plasmid nic region, OriTRP4)(https://synbiohub.org/public/igem/BBa_K1439000/1). 
+OriTRP4 was derived from the RP4 plasmid (https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2503).

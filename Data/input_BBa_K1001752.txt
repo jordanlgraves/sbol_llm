@@ -1,0 +1,38 @@
+CONTEXT:
+
+https://synbiohub.org/public/igem/BBa_K1001752/1
+
+INPUT: 
+
+User Initial Description: RFP and RBS behind Lamda Prm Promoter
+
+Parts:
+    BBa_S03873
+        http://purl.obolibrary.org/obo/SO:0000804
+        Engineered Region
+        https://synbiohub.org/public/igem/BBa_S03873/1
+
+        BBa_I12006
+            Name: Prm+
+            Promoter
+            https://www.ebi.ac.uk/ols4/ontologies/so/classes?obo_id=SO%3A0000167
+            https://synbiohub.org/public/igem/BBa_I12006/1
+
+        BBa_B0034
+            https://www.ebi.ac.uk/ols4/ontologies/so/classes?obo_id=SO%3A0000139
+            Ribosomal Binding Site
+            https://synbiohub.org/public/igem/BBa_B0034/1
+        
+        BBa_E1010
+            Name: mRFP1
+            CDS
+            https://www.ebi.ac.uk/ols4/ontologies/so/classes?obo_id=SO%3A0000316
+            Highly engineered mutant of red fluorescent protein from Discosoma striata (coral)
+            https://synbiohub.org/public/igem/BBa_E1010/1
+
+
+OUTPUT:
+
+This circuit contains a Red Flourescent Protein (https://synbiohub.org/public/igem/BBa_E1010/1) and Ribosome Binding Site (https://synbiohub.org/public/igem/BBa_B0034/1) behind the modified Lambda Prm Promoter (https://synbiohub.org/public/igem/BBa_I12006/1).
+This modified Lambda Promoter is induced by the lamda cl repressor (https://parts.igem.org/Part:BBa_C0051) instead of repressed by it.
+When induced, the RFP is expressed. This allows the inducible Lamda Prm promoter to control the expression of an RFP.

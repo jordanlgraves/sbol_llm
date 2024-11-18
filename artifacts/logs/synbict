@@ -1,0 +1,24 @@
+2024-11-18 12:03:50,873 ; INFO ; Loading ../data/collections/Eco1C1G1T1_collection.xml
+2024-11-18 12:03:53,588 ; INFO ; Loading features
+2024-11-18 12:03:53,739 ; INFO ; Loading ../data/syn_bio_hub/sbol/BBa_K1001752.sbol
+2024-11-18 12:03:53,863 ; INFO ; Loading features
+2024-11-18 12:03:53,865 ; INFO ; Loading features
+2024-11-18 12:03:53,896 ; INFO ; Annotating https://synbiohub.org/public/igem/BBa_S03873/1
+2024-11-18 12:03:53,899 ; INFO ; Finished annotating https://synbiohub.org/public/igem/BBa_S03873/1
+2024-11-18 12:03:53,899 ; INFO ; Annotating https://synbiohub.org/public/igem/BBa_E1010/1
+2024-11-18 12:03:53,902 ; INFO ; Finished annotating https://synbiohub.org/public/igem/BBa_E1010/1
+2024-11-18 12:03:53,902 ; INFO ; Annotating https://synbiohub.org/public/igem/BBa_K1001752/1
+2024-11-18 12:03:53,906 ; INFO ; Finished annotating https://synbiohub.org/public/igem/BBa_K1001752/1
+2024-11-18 12:03:53,907 ; WARNING ; Failed to annotate ../data/syn_bio_hub/sbol/BBa_K1001752.sbol, possibly no constructs found with minimum length 100
+2024-11-18 12:03:53,907 ; INFO ; Pruning https://synbiohub.org/public/igem/BBa_S03873/1
+2024-11-18 12:03:53,908 ; INFO ; Finished pruning https://synbiohub.org/public/igem/BBa_S03873/1
+2024-11-18 12:03:53,908 ; INFO ; Pruning https://synbiohub.org/public/igem/BBa_E1010/1
+2024-11-18 12:03:53,909 ; DEBUG ; Removed https://synbiohub.org/public/igem/BBa_E1010/annotation1014044/1 at [1, 675] in https://synbiohub.org/public/igem/BBa_E1010/1
+2024-11-18 12:03:53,909 ; DEBUG ; Removed https://synbiohub.org/public/igem/BBa_E1010/annotation2214014/1 at [682, 706] in https://synbiohub.org/public/igem/BBa_E1010/1
+2024-11-18 12:03:53,909 ; INFO ; Finished pruning https://synbiohub.org/public/igem/BBa_E1010/1
+2024-11-18 12:03:53,909 ; INFO ; Pruning https://synbiohub.org/public/igem/BBa_K1001752/1
+2024-11-18 12:03:53,910 ; INFO ; Finished pruning https://synbiohub.org/public/igem/BBa_K1001752/1
+2024-11-18 12:03:53,910 ; INFO ; Cleaning up
+2024-11-18 12:03:53,910 ; INFO ; Finished cleaning up
+2024-11-18 12:03:53,910 ; INFO ; Writing ../artifacts/synbict/BBa_K1001752.txt
+2024-11-18 12:03:53,960 ; INFO ; Finished curating
