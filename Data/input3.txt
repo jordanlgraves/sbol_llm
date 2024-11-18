@@ -1,0 +1,41 @@
+Input1:
+Cellular Component
+GO:0005737 - cytoplasm
+GO:0005829 - cytosol
+Molecular Function
+GO:0000976 - transcription cis-regulatory region binding
+GO:0003677 - DNA binding
+GO:0003700 - DNA-binding transcription factor activity
+GO:0005515 - protein binding
+GO:0015643 - toxic substance binding
+GO:0043565 - sequence-specific DNA binding
+Biological Process
+GO:0006355 - regulation of DNA-templated transcription
+GO:0009410 - response to xenobiotic stimulus
+GO:0045892 - negative regulation of DNA-templated transcription
+
+Input2:
+Gene acrR, Product DNA-binding transcriptional repressor
+
+Output:
+The [acriflavine resistance regulator AcrR] (https://www.ncbi.nlm.nih.gov/gene/945004) is classified in the [nodulation-resistance division family] (https://meshb.nlm.nih.gov/record/ui?ui=D014872) and regulates the expression of genes involved in [multidrug transport] (https://meshb.nlm.nih.gov/record/ui?ui=D017055). Ma D., et al. 19962; Holden ER., et al. 20239.
+
+It appears to be involved in resistance to [ciprofloxacin] (https://meshb.nlm.nih.gov/record/ui?ui=D002954), [cefuroxime] (https://meshb.nlm.nih.gov/record/ui?ui=D002466), and [gentamicin] (https://meshb.nlm.nih.gov/record/ui?ui=D005859). Marciano DC., et al. 202210; Allen RC., et al. 20214.
+
+This protein also regulates genes that contend with [polyamine toxicity] (https://meshb.nlm.nih.gov/record/ui?ui=D010994). Harmon DE., et al. 20223.
+
+In addition, [AcrR] (https://www.ncbi.nlm.nih.gov/gene/945004) acts as a global repressor for the [mar-sox-rob regulon] (https://www.ncbi.nlm.nih.gov/gene/945134). Lee JO., et al. 20145.
+
+The crystal structure of [AcrR] (https://www.ncbi.nlm.nih.gov/gene/945004) shows that this protein is folded into nine α-helices distributed in two domains: the [DNA-binding domain] (https://meshb.nlm.nih.gov/record/ui?ui=D008671), which forms the typical helix-turn-helix in the N-terminal domain, and the [ligand-binding domain] (https://meshb.nlm.nih.gov/record/ui?ui=D008672), which forms a large internal cavity for multidrug binding in the C-terminal domain. Li M., et al. 20076.
+
+Mutational analyses have been used to identify the critical role of some amino acids for [AcrR] (https://www.ncbi.nlm.nih.gov/gene/945004) activity, such as [Glu-67] (https://meshb.nlm.nih.gov/record/ui?ui=D020117) and [Arg-45] (https://meshb.nlm.nih.gov/record/ui?ui=D020118). Li M., et al. 20076; Webber MA., et al. 20057.
+
+The activity of [AcrR] (https://www.ncbi.nlm.nih.gov/gene/945004), which belongs to the [TetR family] (https://meshb.nlm.nih.gov/record/ui?ui=D040101), appears to be regulated by ligands such as [putrescine] (https://meshb.nlm.nih.gov/record/ui?ui=D011643), [cadaverine] (https://meshb.nlm.nih.gov/record/ui?ui=D002103), [spermidine] (https://meshb.nlm.nih.gov/record/ui?ui=D013113), [rhodamine 6G] (https://meshb.nlm.nih.gov/record/ui?ui=D012306), [ethidium] (https://meshb.nlm.nih.gov/record/ui?ui=D017055), and [proflavin] (https://meshb.nlm.nih.gov/record/ui?ui=C030139). Su CC., et al. 200711; Harmon DE., et al. 20223.
+
+When one of these ligands binds to the C-terminal domain of [AcrR] (https://www.ncbi.nlm.nih.gov/gene/945004), a conformational change in the N-terminal domain releases the regulator from its DNA-binding site. It has been suggested that the three [AcrR ligands] (https://www.ncbi.nlm.nih.gov/gene/945004) bind to distinct overlapping sites. Li M., et al. 20076. Two of them ([ethidium] (https://meshb.nlm.nih.gov/record/ui?ui=D017055) and [proflavin] (https://meshb.nlm.nih.gov/record/ui?ui=C030139)) can be simultaneously bound in the cavity. Su CC., et al. 200711.
+
+This cavity has an inner surface with [negative potential] (https://meshb.nlm.nih.gov/record/ui?ui=D008603), and the ligands are positively charged, thus favoring the binding between them. Li M., et al. 20076.
+
+Overproduction of [AcrR] (https://www.ncbi.nlm.nih.gov/gene/945004) improves [organic solvent tolerance (OTS)] (https://meshb.nlm.nih.gov/record/ui?ui=D019120) through regulation of the [SoxS regulon] (https://www.ncbi.nlm.nih.gov/gene/947200). Lee JO., et al. 20145.
+
+Based on genome-wide analysis using microarrays, targets for [AcrR] (https://www.ncbi.nlm.nih.gov/gene/945004) have been identified that regulate the transcription of most genes encoding [flagella/motility] (https://meshb.nlm.nih.gov/record/ui?ui=D010853) and increased [flagellum formation] (https://meshb.nlm.nih.gov/record/ui?ui=D018897). [AcrR] (https://www.ncbi.nlm.nih.gov/gene/945004) modulates [swimming motility] (https://meshb.nlm.nih.gov/record/ui?ui=D020835) but not [swarming motility] (https://meshb.nlm.nih.gov/record/ui?ui=D015511). Kim YJ., et al. 201615.

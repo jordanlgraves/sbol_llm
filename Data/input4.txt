@@ -1,0 +1,19 @@
+Input1:
+Cellular Component
+GO:0005829 - cytosol
+Molecular Function
+GO:0000976 - transcription cis-regulatory region binding
+GO:0003677 - DNA binding
+GO:0003700 - DNA-binding transcription factor activity
+GO:0043565 - sequence-specific DNA binding
+Biological Process
+GO:0006355 - regulation of DNA-templated transcription
+GO:0045893 - positive regulation of DNA-templated transcription
+
+Input2:
+Gene adiY, Product DNA-binding transcriptional activator AdiY
+
+Output:
+[AdiY] (https://www.ncbi.nlm.nih.gov/gene/946814) is a positive DNA-binding transcriptional regulator that controls the [arginine decarboxylase (adi) system] (https://meshb.nlm.nih.gov/record/ui?ui=D001086), which is strongly induced in rich medium, under anaerobic conditions, and at low pH. Stim-Herndon KP., et al. 19961; Stim-Herndon KP., et al. 19955.
+
+Several proteins are involved in the induction of the [adi system] (https://meshb.nlm.nih.gov/record/ui?ui=D001086). Changes in the external pH activate the [adiA gene] (https://www.ncbi.nlm.nih.gov/gene/946812). [AdiY] (https://www.ncbi.nlm.nih.gov/gene/946814) may function directly or indirectly with [CysB] (https://www.ncbi.nlm.nih.gov/gene/946901) to increase expression of [adiA] (https://www.ncbi.nlm.nih.gov/gene/946812). [IHF] (https://www.ncbi.nlm.nih.gov/gene/945134) and [H-NS] (https://www.ncbi.nlm.nih.gov/gene/945140) might modulate the bending and necessary access of the [adiAp promoter] (https://www.ncbi.nlm.nih.gov/gene/946812) for activation. Stim-Herndon KP., et al. 19961.

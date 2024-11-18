@@ -1,0 +1,30 @@
+Input1:
+Cellular Component
+GO:0005737 - cytoplasm
+GO:0005829 - cytosol
+Molecular Function
+GO:0003677 - DNA binding
+GO:0003700 - DNA-binding transcription factor activity
+GO:0005515 - protein binding
+GO:0042802 - identical protein binding
+Biological Process
+GO:0006355 - regulation of DNA-templated transcription
+GO:0006974 - DNA damage response
+GO:0045892 - negative regulation of DNA-templated transcription
+
+Input2:
+Gene allR, Product DNA-binding transcriptional repressor AllR
+
+Output:
+
+Here’s the processed text with Named Entity Recognition (NER) and Named Entity Normalization (NEN) using NCBI Taxonomy, MeSH descriptors, and NCBI Gene names. Recognized terms are enclosed in square brackets, and the corresponding URLs are explicitly provided in curved brackets.
+
+[AllR] (https://www.ncbi.nlm.nih.gov/gene/945112) (for "allantoin repressor") regulates several genes involved in the anaerobic utilization of [allantoin] (https://meshb.nlm.nih.gov/record/ui?ui=D000484) as a nitrogen source. Cusa E., et al. 19991; Rintoul MR., et al. 20022.
+
+At very low concentrations of [glyoxylate] (https://meshb.nlm.nih.gov/record/ui?ui=D005938), [AllR] (https://www.ncbi.nlm.nih.gov/gene/945112) represses transcription from [allAp] (https://www.ncbi.nlm.nih.gov/gene/945113), [allSp] (https://www.ncbi.nlm.nih.gov/gene/945114), and [gclp] (https://www.ncbi.nlm.nih.gov/gene/945115). A highly conserved region featuring an almost perfect palindromic sequence has been identified in [gclp] (https://www.ncbi.nlm.nih.gov/gene/945115) and in the intergenic region between the divergent promoters [allAp] (https://www.ncbi.nlm.nih.gov/gene/945113) and [allSp] (https://www.ncbi.nlm.nih.gov/gene/945114). It has been proven that [AllR] (https://www.ncbi.nlm.nih.gov/gene/945112) binds to this region, and it has been proposed that it may interfere with [RNA polymerase] (https://meshb.nlm.nih.gov/record/ui?ui=D012327) by steric hindrance or contact inhibition, thus repressing transcription.
+
+In the presence of [glyoxylate] (https://meshb.nlm.nih.gov/record/ui?ui=D005938) (the coeffector molecule of this regulator), DNA binding by [AllR] (https://www.ncbi.nlm.nih.gov/gene/945112) is inhibited, and transcription of the [allantoin regulon] (https://www.ncbi.nlm.nih.gov/gene/945112) is derepressed. Rintoul MR., et al. 20022; Walker JR., et al. 20063.
+
+[AllR] (https://www.ncbi.nlm.nih.gov/gene/945112) belongs to the [IclR family] (https://www.ncbi.nlm.nih.gov/gene/?term=iclR+family). Members of this family of regulators feature a conserved domain architecture, with a [DNA-binding motif] (https://meshb.nlm.nih.gov/record/ui?ui=D008671) in the N-terminal domain and a [ligand-binding motif] (https://meshb.nlm.nih.gov/record/ui?ui=D008672) in the C-terminal domain. This regulator adopts a tetrameric conformation. Rintoul MR., et al. 20022; Walker JR., et al. 20063.
+
+The [allR gene] (https://www.ncbi.nlm.nih.gov/gene/945112) is expressed under both aerobic and anaerobic conditions, and it is autoregulated. Walker JR., et al. 20063.
